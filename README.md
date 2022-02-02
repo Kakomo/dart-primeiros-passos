@@ -1,4 +1,4 @@
-![Thumbnail GitHub](https://raw.githubusercontent.com/Kakomo/readme-template/main/Readme-%20Flutter%20Persist%C3%AAncia.png)
+![Thumbnail GitHub](https://raw.githubusercontent.com/Kakomo/dart-primeiros-passos/master/Readme-%20Dart%20Primeiros%20Passos.png)
 
 # Bytebank
 
