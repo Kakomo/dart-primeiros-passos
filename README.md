@@ -7,7 +7,9 @@ O código de Dart: Primeiros Passos é uma criação de variáveis para criar da
 
 ## 🔨 Aplicação da vida real
 
-Com o que foi visto nesse código, você poderá identificar variáveis e loops em aplicativos com mais facilidade. Foi usado um aplicativo commo exemplo de como podemos aprender a visualizar nosso aprendizado.
+Com o que foi visto nesse código, você poderá identificar variáveis e loops em aplicativos com mais facilidade. 
+
+Foi usado um aplicativo como exemplo de como podemos aprender a visualizar nosso aprendizado.
 
 ![](https://raw.githubusercontent.com/Kakomo/dart-primeiros-passos/1be70c105be8ab0e8ebb55274a41b40b20c706fb/Dart%20Primeiros%20Passos%20Aplica%C3%A7%C3%A3o.gif)
 
