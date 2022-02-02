@@ -1,56 +1,44 @@
 ![Thumbnail GitHub](https://raw.githubusercontent.com/Kakomo/dart-primeiros-passos/master/Readme-%20Dart%20Primeiros%20Passos.png)
 
-# Bytebank
+# Dart: Primeiros Passos
 
-O Bytebank App é a simulação do aplicativo de um banco, com ele você poderá fazer transações bancárias, informando o numero da conta e o valor monetário da transação!
 
-## 🔨 Características do projeto
+O código de Dart: Primeiros Passos é uma criação de variáveis para criar dados sobre pessoas, desde: nomes, altura, idade, se é geek, Listas com todos os dados e métodos para definir se é maior de idade ou criar loops de repetição que consomem energia.
 
-Neste curso inicial você será capaz de criar duas telas para simular uma transação de dinheiro para uma conta!
+## 🔨 Aplicação da vida real
 
-![](https://raw.githubusercontent.com/Kakomo/readme-template/main/Flutter%20Persist%C3%AAncia.gif)
+Com o que foi visto nesse código, você poderá identificar variáveis e loops em aplicativos com mais facilidade. Foi usado um aplicativo commo exemplo de como podemos aprender a visualizar nosso aprendizado.
+
+![](https://raw.githubusercontent.com/Kakomo/dart-primeiros-passos/1be70c105be8ab0e8ebb55274a41b40b20c706fb/Dart%20Primeiros%20Passos%20Aplica%C3%A7%C3%A3o.gif)
 
 ## ✔️ Técnicas e tecnologias
 
 **Veja mais de perto o que você aprenderá sobre** :
-- `Material Design`: A estrutura para criar UI/UX utilizando Componentes.
-- `Column`: Componente que permite criação de Colunas.
-- `Text`: Componente que permite criar Textos.
-- `Scaffold`: Componente que Modela o formato padrão para seu Aplicativo.
-- `RaisedButton`: Botão que permite configurar ações, como mudanças de tela. 
-  - ( `RaisedButton` foi depreciado no Flutter 2.0, agora utilize o `ElevatedButton` ) 
-- `StatelessWidget`: O StatelessWidget (Widget sem Estado) que apresenta telas estáticas.
-- `StatefulWidget`: O StatefulWidget (Widget com Estado) que apresenta telas dinâmicas.
+- `int`: Variável do tipo Numbers que carrega valores inteiros.
+- `double`: Variável do tipo Numbers que carrega valores fracionados.
+- `bool`: Variável simples de verdadeiro ou falso.
+- `String`: Variável que possibilita criação de frases. 
+- `List`: Objeto que armazena diversas variáveis.
+- `var`: Definição de tipagem que pode ser definida posteriormente.
+- `const`: Definição de tipagem que impede o objeto de ter seu valor alterado.
+- `final`: Definição de tipagem que impede o objeto não inicializado de ter seu valor alterado.
+- `if/else`: Função que permite comparação e decisão de escolhas
+- `for`: Função que permite a criação de loops de repetição com limite definido. 
+- `while`: Função que permite a criação de llops de repetição sem limite definido.
 
  
-## 📁 Acesso ao projeto
 
-O acesso ao projeto está separado da seguinte forma:
-```
-├── aula-1
-├── aula-2
-├── aula-3
-├── aula-4
-└── aula-5
-```
-
-A branch [aula-1](https://github.com/alura-cursos/flutter-fundamentos/tree/aula-1) é o ponto de partida do repositório, é partindo dela que desenvolveremos a aula-1. Por sua vez, a aula-2 é uma continuação da aula-2 e assim vai sucessivamente. A branch aula-5 é a final, nela você encontra o código final criado no curso até a aula-5.
-
-Você pode [baixar o zip](https://github.com/alura-cursos/flutter-fundamentos/archive/refs/heads/aula-5.zip) com o código final do projeto ou [acessar o código fonte](https://github.com/alura-cursos/flutter-fundamentos/tree/aula-5).
 
 ## 🛠️ Abrir e rodar o projeto
 
 **Para executar este projeto você precisa:**
 
-- Ter o [Flutter](https://flutter.dev/docs/get-started/install) instalado na sua máquina
-- Ter algum editor de códigos ou IDE como o [Android Studio](https://developer.android.com/studio) ou [Intellij Idea](https://www.jetbrains.com/pt-br/idea/download/). 
+- Ter uma IDE, que pode ser o  [IntelliJ](https://www.jetbrains.com/idea/download/) instalado na sua máquina
+- Ter a [SDK do Dart](https://dart.dev/get-dart/archive) na versão 2.15.1
 
-Caso opte por IDEs como as duas sugeridas acima, o processo de execução do aplicativo funcionará através de um botão de play na parte superior que ambas dispõem. Caso escolha rodar o projeto via linha de comandos, utilize o comando `flutter run`. Lembre-se de antes de executar o comando de navegar até a pasta do projeto antes. 
-
-Para mais instruções sobre a configuração do ambiente, recomendamos a leitura do artigo [Flutter - Como configurar o ambiente de desenvolvimento](https://www.alura.com.br/artigos/flutter-como-configurar-o-ambiente-de-desenvolvimento). Caso tenha desejo de obter conhecimento além dos cursos da [Formação Flutter](https://www.alura.com.br/formacao-flutter), recomendamos os livros [Iniciando com Flutter Framework](https://www.casadocodigo.com.br/products/livro-flutter) e [Aprofundando em Flutter](https://www.casadocodigo.com.br/products/livro-aprofundando-flutter) da editora [Casa do código](https://www.casadocodigo.com.br/).
 
 ## 📚 Mais informações do curso
 
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso](https://cursos.alura.com.br/course/flutter-fundamentos) que desenvolve o projeto desde o começo!
+Gostou do projeto e quer conhecer mais? Você pode [acessar o curso]() que desenvolve o projeto desde o começo!
 
-Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-android)
+Esse curso faz parte da [formação de Dart da Alura]()
